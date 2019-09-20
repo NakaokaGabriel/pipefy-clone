@@ -1,1 +1,1 @@
-#This project is a clone of pipefy
+This project is a clone of pipefy
